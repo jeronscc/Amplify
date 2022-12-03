@@ -54,6 +54,7 @@ import os <br />
 1. Run the Program.
 2. Click the Select Folder icon.
 3. Go to the desired directory where ***.mp3*** files are located.
+4. 
 
 
 
