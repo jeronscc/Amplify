@@ -18,4 +18,6 @@ We must first get all the prerequisites ready in order for this project to succe
   
 Check to see if Python and a code editor are both installed on your computer. <br />
 To determine whether Python is installed, use the command listed below.  <br />
+***python --version***
+
 Regardless of the OS you are using, this command will function.
