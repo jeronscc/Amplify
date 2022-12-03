@@ -45,9 +45,14 @@ from pygame import mixer <br />
 from PIL import ImageTk, Image** <br />
 
 ## How to Use?
-After installing required libraries, clone the repository. <br />
-`git clone `
+### Requirements
+ * After installing required libraries, clone the repository. <br />
+`git clone https://github.com/jeronscc/ACP-Final-Project.git` <br />
+ * 
 
+1. Run the Program.
+2. Click the Select Folder icon.
+3. Go to the desired directory where **.mp3** files are located.
 
 
 
