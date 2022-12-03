@@ -44,7 +44,7 @@ from pygame import mixer** <br />
 
 ### Creating Root Window
 Our application's layout, containing all necessary components, will be in the root window. 
-You can set the window's title and dimensions using the code below
+You can set the window's title and dimensions using the code below.
 
 **root=Tk() <br />
 root.title('ACP Music Player') <br />
