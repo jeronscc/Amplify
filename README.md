@@ -1,4 +1,5 @@
-# Music Player
+ Music Player
+ -------------
 
 ## Introduction
 
@@ -9,7 +10,7 @@ But Python makes it possible for us to create a functional music player for free
 So, in this project, we'll utilize its tools to build an MP3 player.
 
 ## How to Setup
---------------
+
 We must first get all the prerequisites ready in order for this project to succeed.
 
   * Install ***Python 3.11.0*** for **pip**,  **tcl/tk**, and **IDLE** <br />
