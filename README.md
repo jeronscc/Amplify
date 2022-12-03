@@ -49,16 +49,10 @@ from pygame import mixer <br />
 from PIL import ImageTk, Image** <br />
 
 
-### Creating Root Window
-Our application's layout, containing all necessary components, will be in the root window. 
-You can set the window's title and dimensions using the code below.
+## How to Use?
 
-**root=Tk() <br />
-root.title('ACP Music Player') <br />
-root.geometry("920x670+290+85") <br />
-root.configure(bg= "#0f1a2b") <br />
-root.resizable(False, False) <br />
-mixer.init()** <br />
+
+
 
 
 
