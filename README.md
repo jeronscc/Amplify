@@ -30,11 +30,6 @@ The pygame library needs to be installed as well. To execute the installation co
 By using the command below, Pillow library is used for resizing the image input to the program. <br />
 `pip install Pillow` <br />
 
-
-
-
-
-
 ### Importing Modules 
 
 The modules that we have installed must be imported before we can utilize them,
@@ -49,8 +44,11 @@ from tkinter import filedialog <br />
 from pygame import mixer <br />
 from PIL import ImageTk, Image** <br />
 
-
 ## How to Use?
+After installing required libraries, clone the repository. <br />
+`git clone `
+
+
 
 
 
