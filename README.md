@@ -1,5 +1,12 @@
  # Amplify Music Player
  -------------
+## Table of contents
+* Introduction
+* Setup
+* Libraries
+* Modules
+* How to use
+* Acknowledgements
 
 ## Introduction
 
