@@ -45,7 +45,9 @@ The following code will allow us to utilize the modules. <br />
 from tkinter import * <br />
 from tkinter import Tk <br />
 from tkinter import filedialog <br />
-from pygame import mixer** <br />
+from pygame import mixer <br />
+from PIL import ImageTk, Image** <br />
+
 
 ### Creating Root Window
 Our application's layout, containing all necessary components, will be in the root window. 
