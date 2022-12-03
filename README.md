@@ -12,7 +12,7 @@ So, in this project, we'll utilize its tools to build an MP3 player.
 ## How to Setup
 We must first get all the prerequisites ready in order for this project to succeed.
 
-  * Install `Python 3.11.0` for **pip**,  **tcl/tk**, and **IDLE** <br />
+  * Install ***Python 3.11.0*** for **pip**,  **tcl/tk**, and **IDLE** <br />
   * Copy the installation directory. e.g. `C:\Python\Python311` <br />
   * Add the directory in ***PATH*** environent variable. <br />
   * Install `pip install pygame` or Upgrade `python.exe -m pip install --upgrade pip`
