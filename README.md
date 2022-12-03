@@ -48,8 +48,9 @@ from PIL import ImageTk, Image** <br />
 ### Requirements
  * After installing required libraries, clone the repository. <br />
 `git clone https://github.com/jeronscc/ACP-Final-Project.git` <br />
- * 
-
+ * You need to have designated folder where .mp3 files are located.
+ 
+### Executing
 1. Run the Program.
 2. Click the Select Folder icon.
 3. Go to the desired directory where **.mp3** files are located.
