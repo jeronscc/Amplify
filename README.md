@@ -37,12 +37,12 @@ specifically a few packages that are compatible with our project.
 The following code will allow us to utilize the modules. <br />
 
 #importing libraries <br />
-**import os <br />
+from PIL import ImageTk, Image** <br />
 from tkinter import * <br />
 from tkinter import Tk <br />
 from tkinter import filedialog <br />
 from pygame import mixer <br />
-from PIL import ImageTk, Image** <br />
+import os <br />
 
 ## How to Use?
 ### Requirements
@@ -53,7 +53,7 @@ from PIL import ImageTk, Image** <br />
 ### Execution
 1. Run the Program.
 2. Click the Select Folder icon.
-3. Go to the desired directory where **.mp3** files are located.
+3. Go to the desired directory where ***.mp3*** files are located.
 
 
 
