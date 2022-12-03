@@ -37,14 +37,14 @@ specifically a few packages that are compatible with our project.
 The following code will allow us to utilize the modules. <br />
 
 #importing libraries <br />
-from PIL import ImageTk, Image** <br />
+from PIL import ImageTk, Image <br />
 from tkinter import * <br />
 from tkinter import Tk <br />
 from tkinter import filedialog <br />
 from pygame import mixer <br />
 import os <br />
 
-## How to Use?
+## How to Use
 ### Requirements
  * After installing required libraries, clone the repository. <br />
 `git clone https://github.com/jeronscc/ACP-Final-Project.git` <br />
