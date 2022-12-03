@@ -15,7 +15,8 @@ We must first get all the prerequisites ready in order for this project to succe
   * Install `Python 3.11.0` for **pip**,  **tcl/tk**, and **IDLE** <br />
   * Copy the installation directory. e.g. `C:\Python\Python311` <br />
   * Add the directory in ***PATH*** environent variable. <br />
-  * Go to terminal and `pip install pygame`.
+  * Install `pip install pygame` or Upgrade `python.exe -m pip install --upgrade pip`
+  * 
   
 Check to see if Python and a code editor are both installed on your computer. <br />
 To determine whether Python is installed, use the command listed below.  <br />
