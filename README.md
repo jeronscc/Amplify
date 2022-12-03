@@ -20,15 +20,16 @@ We must first get all the prerequisites ready in order for this project to succe
 
 Check to see if Python and a code editor are both installed on your computer. <br />
 To determine whether Python is installed, use the command listed below.  <br />
-**python --version** <br />
+`python --version` <br />
 Regardless of the OS you are using, this command will function.
 
 The pygame library needs to be installed as well. To execute the installation command, we'll use PIP. <br />
 `pip install pygame` <br />
 
-By using the command below, we will use PIP in a similar manner to install tkinter. <br />
-`pip install tk` <br />
+By using the command below, Pillow library is used for resizing the image input to the program. <br />
 `pip install Pillow` <br />
+
+
 
 
 
