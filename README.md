@@ -54,7 +54,11 @@ import os <br />
 1. Run the Program.
 2. Click the Select Folder icon.
 3. Go to the desired directory where ***.mp3*** files are located.
-4. 
+4. The player contains four main buttons: Play, Pause, Stop, Repeat.<br /> 
+It functions depends on what the user desires with the application.
+5. To play a song, the user must choose among the songs listed in the directory.<br />
+A scroll bar was also provided for the user to freely roam the application.
+
 
 
 
