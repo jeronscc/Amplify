@@ -1,8 +1,11 @@
  # Amplify Music Player
  -------------
- <p align="center">
-![](images/Output.jpg)
+ 
+<p align="center">
+  ![](images/Output.jpg)
 </p>
+
+
 ## Table of contents
 * Introduction
 * Setup
