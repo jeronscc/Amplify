@@ -1,5 +1,6 @@
  # Amplify Music Player
  -------------
+ ![](images/Output.jpg)
 ## Table of contents
 * Introduction
 * Setup
