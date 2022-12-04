@@ -17,10 +17,12 @@ To get started with Amplify, begin by reading the How to Setup section.
 
 ## Table of contents
 * Introduction
-* Setup
-* Libraries
-* Modules
+* How to Setup
+  * Installing Libraries
+  * Importing Modules
 * How to use
+  * Requirements
+  * Execution
 
 
 ## Introduction
