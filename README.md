@@ -21,7 +21,7 @@ To get started with Amplify, begin by reading the How to Setup section.
 * Libraries
 * Modules
 * How to use
-* Acknowledgements
+
 
 ## Introduction
 
