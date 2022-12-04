@@ -2,7 +2,7 @@
  -------------
  
 <p align="center">
- <img width="200" src="images/Output.jpg" alt="Material Bread logo">
+ <img width="220" src="images/Output.jpg" alt="Material Bread logo">
 </p>
 
 ## Description
