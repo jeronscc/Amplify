@@ -5,6 +5,15 @@
  <img width="200" src="images/Output.jpg" alt="Material Bread logo">
 </p>
 
+## Description
+Amplify Music Player is a python music player thats acts as a 
+repository for your songs and allows the user to play it . 
+
+The user must choose a specific folder that holds the music in order to add them to the Amplify Music Player.
+You can choose a song from the list that has been added and play, pause, resume, and stop songs by using the 
+various buttons that are coded into the program. This is made possible by the import pygame.
+
+To get started with Amplify, begin by reading the How to Setup section.
 
 ## Table of contents
 * Introduction
