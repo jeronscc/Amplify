@@ -2,7 +2,7 @@
  -------------
  
 <p align="center">
-  ![](images/Output.jpg)
+ <img width="200" src="images/Output.jpg" alt="Material Bread logo">
 </p>
 
 
