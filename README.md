@@ -84,6 +84,5 @@ Its functions depend on what the user desires with the application.
 A scroll bar was also provided for the user to freely roam the application.
 
 ### Video Presentation
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/https://www.youtube.com/watch?v=rbIcJPyioN4.jpg)](https://www.youtube.com/watch?v=rbIcJPyioN4)
-
+[![Watch the video!!!](https://cdn.discordapp.com/attachments/839385563110834206/1050698240267403305/1.jpg)](https://www.youtube.com/watch?v=rbIcJPyioN4)
   
