@@ -84,7 +84,7 @@ Its functions depend on what the user desires with the application.
 A scroll bar was also provided for the user to freely roam the application.
 
 ## UML Diagram
-<img width=600 src="images/UML Diagram.jpg" alt="Material Bread logo">
+<img width=650 src="images/UML Diagram.jpg" alt="Material Bread logo">
 
 ## Video Presentation
 [![Watch the video!!!](https://cdn.discordapp.com/attachments/839385563110834206/1050698240267403305/1.jpg)](https://www.youtube.com/watch?v=rbIcJPyioN4)
