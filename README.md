@@ -83,6 +83,8 @@ Its functions depend on what the user desires with the application.
 5. To play a song, the user must choose among the songs listed in the directory. <br />
 A scroll bar was also provided for the user to freely roam the application.
 
+## UML Diagram
+
 ## Video Presentation
 [![Watch the video!!!](https://cdn.discordapp.com/attachments/839385563110834206/1050698240267403305/1.jpg)](https://www.youtube.com/watch?v=rbIcJPyioN4)
   
