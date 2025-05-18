@@ -71,7 +71,7 @@ import os <br />
 ## How to Use
 ### Requirements
  * After installing required libraries, clone the repository. <br />
-`git clone https://github.com/jeronscc/ACP-Final-Project.git` <br />
+`git clone https://github.com/jeronscc/Amplify.git` <br />
  * You need to have designated folder where .mp3 files are located.
  
 ### Execution
